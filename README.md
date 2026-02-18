@@ -98,10 +98,5 @@ http://127.0.0.1:5000
 - Backend API integration workflow
 
 
-After pasting it into README.md, just run:
 
-git add README.md
-git commit -m "Added README"
-git push
 
-## Project Structure
